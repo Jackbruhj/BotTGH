@@ -1,0 +1,8 @@
+{
+    "register": ["King of Heroes 👑", "Sacerdote Misterioso ⛪", "Ruler-📜"],
+    "add": ["King of Heroes 👑", "Sacerdote Misterioso ⛪", "Ruler-📜"],
+    "delete": ["King of Heroes 👑", "Sacerdote Misterioso ⛪", "Ruler-📜"],
+    "user": ["King of Heroes 👑", "Sacerdote Misterioso ⛪", "Ruler-📜"],
+    "setrole": ["King of Heroes 👑", "Sacerdote Misterioso ⛪", "Ruler-📜"]
+}
+
